@@ -1,0 +1,9 @@
+.header{
+    background-color: rgb(224, 205, 179);
+    height: 60px;
+    font-size: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
